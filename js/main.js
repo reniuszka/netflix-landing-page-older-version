@@ -1,5 +1,5 @@
 const tabItems = document.querySelectorAll('.tab-item');
-// I want to grab elements with class tab-item and it put the to the node ListeningStateChangedEvent, which behaves similar to an array, need to loop through them
+// I want to grab elements with class tab-item and it put the to the node List which behaves similar to an array, need to loop through them
 const tabContentItems = document.querySelectorAll('.tab-content-item');
 
 // when we we click on the tabItem want to show tabContentItem, so add click event and when is click the fuunction selectItem is called
